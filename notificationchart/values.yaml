@@ -1,7 +1,7 @@
 # Default values for notification.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
-myvalue: "Notification chart"
+myvalue: "notification chart"
 replicaCount: 1
 image:
   repository: nginx
